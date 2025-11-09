@@ -1,1 +1,3 @@
-# git-started-tictactoe
+# Demo repository for contributing to the [HCC Computer Science Association](https://github.com/HCC-Computer-Science-Association) GitHub
+
+Provided by [@avonbied](https://github.com/avonbied)
