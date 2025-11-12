@@ -6,7 +6,7 @@ class GameTable {
 		this.isWon = false;
 		this.winner = -1;
 	}
-
+ //the changes
 	nextPlayer() {
 		this.player = (this.player + 1) % 2;
 	}
